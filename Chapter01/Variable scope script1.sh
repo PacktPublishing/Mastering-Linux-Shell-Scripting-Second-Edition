@@ -2,4 +2,4 @@
 #!/bin/bash
 name="Mokhtar"
 export name # The variable will be accessible to other processes
-./script2.sh
+./06-script2.sh
