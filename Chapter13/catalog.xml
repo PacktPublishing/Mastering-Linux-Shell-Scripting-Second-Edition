@@ -1,3 +1,4 @@
+<products>
 
 <product>
 <name>drill</name>
@@ -22,3 +23,6 @@
 <price>1099.99</price>
 <stock>5</stock>
 </product>
+
+</products>
+
