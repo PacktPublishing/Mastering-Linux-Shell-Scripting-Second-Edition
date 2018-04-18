@@ -1,7 +1,0 @@
-"Print to a welcome message": {
-		"prefix": "welcome",
-		"body": [
-			"echo 'Welcome to shell scripting! ${1|first,second,third|}' "
-		],
-		"description": "Print welcome message"
-	}
